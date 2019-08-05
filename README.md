@@ -17,8 +17,9 @@ For this project, I was interestested in using StackOverflow survey results data
 
 ## File Descriptions <a name="files"></a>
 __Helper.py:__ This file contains helper methods for reading the data from csv files, plotting the charts and so on.
-__StackOverFlow.py:__ This is the main code used, feel free to use it as you wish.
+__Stackoverflow 2013-2019 Most Used Programming Languge.py:__ This is the main code used, feel free to use it as you wish.
 There are 7 folders each containing a dataset for a certain year from Stackoveflow.
+__Stackoverflow 2013-2019 Most Used Programming Languge.ipynb:__ A juypter notebook with the code and findings.
 
 ## Results<a name="results"></a>
 
