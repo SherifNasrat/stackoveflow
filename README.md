@@ -22,7 +22,7 @@ There are 7 folders each containing a dataset for a certain year from Stackovefl
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@SherifNasrat/one-programming-language-to-rule-them-all-a31d2ac9a526).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
