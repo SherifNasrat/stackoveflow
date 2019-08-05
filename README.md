@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2013 to 2019 to know which programming languages or technologies that are used the most every year and see how that changes from one year to the next.
+For this project, I was interestested in using StackOverflow survey results data from 2013 to 2019 to know which programming languages or technologies that are used the most every year and see how that changes from one year to the next as well as the number of new technologies that emerged over the years.
 
 ## File Descriptions <a name="files"></a>
 __Helper.py:__ This file contains helper methods for reading the data from csv files, plotting the charts and so on.
